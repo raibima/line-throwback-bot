@@ -3,6 +3,8 @@ LINE bot that brings back old memories.
 ## Guide
 *Current setup only supports deployment to Heroku*
 
+Put your photos inside `static/img` directory.
+
 Before deploying, these config vars should be set:
 - CHANNEL_TOKEN (from LINE)
 - CHANNEL_SECRET (from LINE)
